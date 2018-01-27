@@ -1,0 +1,26 @@
+nav ul {
+  list-style: none;
+
+}
+
+nav ul li {
+  display:inline;
+  border: 0px solid grey;
+  padding: 0px 20px;
+}
+span {
+  float: right;
+
+}
+
+.icon{
+  width: 30px;
+  height: 30px;
+}
+
+p {
+  background-color: #ffff00;
+  margin: 0 auto;
+  width: 75%
+
+}
